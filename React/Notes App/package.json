@@ -11,11 +11,11 @@
     "react": "^16.13.1",
     "react-alert": "^7.0.3",
     "react-alert-template-mui": "^1.0.7",
-    "react-animated-popup": "^0.1.1",
+    "react-animated-popup": "^0.1.7",
     "react-dom": "^16.13.1",
     "react-mouse-particles": "^1.1.5",
     "react-particles-js": "^3.4.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.0",
     "react-toastify": "^7.0.4"
   },
   "scripts": {
